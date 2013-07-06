@@ -5,3 +5,4 @@ test-Repo
 masterです。
 githubで編集しました。
 さらに編集しました。
+さらに編集しました！
